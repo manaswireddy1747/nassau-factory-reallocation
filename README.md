@@ -78,5 +78,10 @@ recommendations.
 
 ### Author
 
-Data Analyst Intern Project
-Nassau Candy Distributor
+## Author
+
+**Gade Lakshmi Naga Sai Manaswi**
+
+Data Analyst Intern Project – Nassau Candy Distributor
+
+B.E. Computer Science and Engineering
