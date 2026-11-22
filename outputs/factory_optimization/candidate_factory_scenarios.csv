@@ -1,0 +1,76 @@
+Product,Current_Factory,Candidate_Factory,Assignment_Type,Historical_Sales,Historical_Gross_Profit,Historical_Units,Lead_Time_Estimate,Lead_Time_Reduction,Risk_Impact,Incremental_Profit_Impact,Recommendation_Status
+Everlasting Gobstopper,Secret Factory,Lot's O' Nuts,Alternative,130.0,104.0,13,,,Not validated,Not available,Pending validation
+Everlasting Gobstopper,Secret Factory,Wicked Choccy's,Alternative,130.0,104.0,13,,,Not validated,Not available,Pending validation
+Everlasting Gobstopper,Secret Factory,Sugar Shack,Alternative,130.0,104.0,13,,,Not validated,Not available,Pending validation
+Everlasting Gobstopper,Secret Factory,Secret Factory,Current,130.0,104.0,13,,,Not validated,Not available,Current assignment
+Everlasting Gobstopper,Secret Factory,The Other Factory,Alternative,130.0,104.0,13,,,Not validated,Not available,Pending validation
+Fizzy Lifting Drinks,Sugar Shack,Lot's O' Nuts,Alternative,78.75,47.25,21,,,Not validated,Not available,Pending validation
+Fizzy Lifting Drinks,Sugar Shack,Wicked Choccy's,Alternative,78.75,47.25,21,,,Not validated,Not available,Pending validation
+Fizzy Lifting Drinks,Sugar Shack,Sugar Shack,Current,78.75,47.25,21,,,Not validated,Not available,Current assignment
+Fizzy Lifting Drinks,Sugar Shack,Secret Factory,Alternative,78.75,47.25,21,,,Not validated,Not available,Pending validation
+Fizzy Lifting Drinks,Sugar Shack,The Other Factory,Alternative,78.75,47.25,21,,,Not validated,Not available,Pending validation
+Fun Dip,Sugar Shack,Lot's O' Nuts,Alternative,12.0,4.8,8,,,Not validated,Not available,Pending validation
+Fun Dip,Sugar Shack,Wicked Choccy's,Alternative,12.0,4.8,8,,,Not validated,Not available,Pending validation
+Fun Dip,Sugar Shack,Sugar Shack,Current,12.0,4.8,8,,,Not validated,Not available,Current assignment
+Fun Dip,Sugar Shack,Secret Factory,Alternative,12.0,4.8,8,,,Not validated,Not available,Pending validation
+Fun Dip,Sugar Shack,The Other Factory,Alternative,12.0,4.8,8,,,Not validated,Not available,Pending validation
+Hair Toffee,The Other Factory,Lot's O' Nuts,Alternative,76.5,59.5,17,,,Not validated,Not available,Pending validation
+Hair Toffee,The Other Factory,Wicked Choccy's,Alternative,76.5,59.5,17,,,Not validated,Not available,Pending validation
+Hair Toffee,The Other Factory,Sugar Shack,Alternative,76.5,59.5,17,,,Not validated,Not available,Pending validation
+Hair Toffee,The Other Factory,Secret Factory,Alternative,76.5,59.5,17,,,Not validated,Not available,Pending validation
+Hair Toffee,The Other Factory,The Other Factory,Current,76.5,59.5,17,,,Not validated,Not available,Current assignment
+Kazookles,The Other Factory,Lot's O' Nuts,Alternative,1205.75,92.75,371,,,Not validated,Not available,Pending validation
+Kazookles,The Other Factory,Wicked Choccy's,Alternative,1205.75,92.75,371,,,Not validated,Not available,Pending validation
+Kazookles,The Other Factory,Sugar Shack,Alternative,1205.75,92.75,371,,,Not validated,Not available,Pending validation
+Kazookles,The Other Factory,Secret Factory,Alternative,1205.75,92.75,371,,,Not validated,Not available,Pending validation
+Kazookles,The Other Factory,The Other Factory,Current,1205.75,92.75,371,,,Not validated,Not available,Current assignment
+Laffy Taffy,Sugar Shack,Lot's O' Nuts,Alternative,53.73,33.480000000000004,27,,,Not validated,Not available,Pending validation
+Laffy Taffy,Sugar Shack,Wicked Choccy's,Alternative,53.73,33.480000000000004,27,,,Not validated,Not available,Pending validation
+Laffy Taffy,Sugar Shack,Sugar Shack,Current,53.73,33.480000000000004,27,,,Not validated,Not available,Current assignment
+Laffy Taffy,Sugar Shack,Secret Factory,Alternative,53.73,33.480000000000004,27,,,Not validated,Not available,Pending validation
+Laffy Taffy,Sugar Shack,The Other Factory,Alternative,53.73,33.480000000000004,27,,,Not validated,Not available,Pending validation
+Lickable Wallpaper,Secret Factory,Lot's O' Nuts,Alternative,7860.0,3930.0,393,,,Not validated,Not available,Pending validation
+Lickable Wallpaper,Secret Factory,Wicked Choccy's,Alternative,7860.0,3930.0,393,,,Not validated,Not available,Pending validation
+Lickable Wallpaper,Secret Factory,Sugar Shack,Alternative,7860.0,3930.0,393,,,Not validated,Not available,Pending validation
+Lickable Wallpaper,Secret Factory,Secret Factory,Current,7860.0,3930.0,393,,,Not validated,Not available,Current assignment
+Lickable Wallpaper,Secret Factory,The Other Factory,Alternative,7860.0,3930.0,393,,,Not validated,Not available,Pending validation
+Nerds,Sugar Shack,Lot's O' Nuts,Alternative,15.0,7.0,10,,,Not validated,Not available,Pending validation
+Nerds,Sugar Shack,Wicked Choccy's,Alternative,15.0,7.0,10,,,Not validated,Not available,Pending validation
+Nerds,Sugar Shack,Sugar Shack,Current,15.0,7.0,10,,,Not validated,Not available,Current assignment
+Nerds,Sugar Shack,Secret Factory,Alternative,15.0,7.0,10,,,Not validated,Not available,Pending validation
+Nerds,Sugar Shack,The Other Factory,Alternative,15.0,7.0,10,,,Not validated,Not available,Pending validation
+SweeTARTS,Sugar Shack,Lot's O' Nuts,Alternative,61.5,28.7,41,,,Not validated,Not available,Pending validation
+SweeTARTS,Sugar Shack,Wicked Choccy's,Alternative,61.5,28.7,41,,,Not validated,Not available,Pending validation
+SweeTARTS,Sugar Shack,Sugar Shack,Current,61.5,28.7,41,,,Not validated,Not available,Current assignment
+SweeTARTS,Sugar Shack,Secret Factory,Alternative,61.5,28.7,41,,,Not validated,Not available,Pending validation
+SweeTARTS,Sugar Shack,The Other Factory,Alternative,61.5,28.7,41,,,Not validated,Not available,Pending validation
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Lot's O' Nuts,Current,24890.4,16593.6,6914,,,Not validated,Not available,Current assignment
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Wicked Choccy's,Alternative,24890.4,16593.6,6914,,,Not validated,Not available,Pending validation
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Sugar Shack,Alternative,24890.4,16593.6,6914,,,Not validated,Not available,Pending validation
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Secret Factory,Alternative,24890.4,16593.6,6914,,,Not validated,Not available,Pending validation
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,The Other Factory,Alternative,24890.4,16593.6,6914,,,Not validated,Not available,Pending validation
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Lot's O' Nuts,Alternative,26867.75,17443.37,8267,,,Not validated,Not available,Pending validation
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Wicked Choccy's,Current,26867.75,17443.37,8267,,,Not validated,Not available,Current assignment
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Sugar Shack,Alternative,26867.75,17443.37,8267,,,Not validated,Not available,Pending validation
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Secret Factory,Alternative,26867.75,17443.37,8267,,,Not validated,Not available,Pending validation
+Wonka Bar - Milk Chocolate,Wicked Choccy's,The Other Factory,Alternative,26867.75,17443.37,8267,,,Not validated,Not available,Pending validation
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Lot's O' Nuts,Current,23574.95,16819.95,6755,,,Not validated,Not available,Current assignment
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Wicked Choccy's,Alternative,23574.95,16819.95,6755,,,Not validated,Not available,Pending validation
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Sugar Shack,Alternative,23574.95,16819.95,6755,,,Not validated,Not available,Pending validation
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Secret Factory,Alternative,23574.95,16819.95,6755,,,Not validated,Not available,Pending validation
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,The Other Factory,Alternative,23574.95,16819.95,6755,,,Not validated,Not available,Pending validation
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Lot's O' Nuts,Alternative,28485.0,18610.2,7596,,,Not validated,Not available,Pending validation
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Wicked Choccy's,Current,28485.0,18610.2,7596,,,Not validated,Not available,Current assignment
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Sugar Shack,Alternative,28485.0,18610.2,7596,,,Not validated,Not available,Pending validation
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Secret Factory,Alternative,28485.0,18610.2,7596,,,Not validated,Not available,Pending validation
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,The Other Factory,Alternative,28485.0,18610.2,7596,,,Not validated,Not available,Pending validation
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Lot's O' Nuts,Current,27874.8,19357.5,7743,,,Not validated,Not available,Current assignment
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Wicked Choccy's,Alternative,27874.8,19357.5,7743,,,Not validated,Not available,Pending validation
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Sugar Shack,Alternative,27874.8,19357.5,7743,,,Not validated,Not available,Pending validation
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Secret Factory,Alternative,27874.8,19357.5,7743,,,Not validated,Not available,Pending validation
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,The Other Factory,Alternative,27874.8,19357.5,7743,,,Not validated,Not available,Pending validation
+Wonka Gum,Secret Factory,Lot's O' Nuts,Alternative,597.5,310.7,478,,,Not validated,Not available,Pending validation
+Wonka Gum,Secret Factory,Wicked Choccy's,Alternative,597.5,310.7,478,,,Not validated,Not available,Pending validation
+Wonka Gum,Secret Factory,Sugar Shack,Alternative,597.5,310.7,478,,,Not validated,Not available,Pending validation
+Wonka Gum,Secret Factory,Secret Factory,Current,597.5,310.7,478,,,Not validated,Not available,Current assignment
+Wonka Gum,Secret Factory,The Other Factory,Alternative,597.5,310.7,478,,,Not validated,Not available,Pending validation
