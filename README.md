@@ -78,7 +78,6 @@ recommendations.
 
 ### Author
 
-## Author
 
 **Gade Lakshmi Naga Sai Manaswi**
 
